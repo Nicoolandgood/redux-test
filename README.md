@@ -11,3 +11,6 @@ yarn
 yarn dev
 ```
 and go to [this page](http://localhost:3000).
+
+# Support me !!!!
+You can support me by subscribing to my [Patreon](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
